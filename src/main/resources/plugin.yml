@@ -1,0 +1,4 @@
+name: DB_Hook_PL
+version: '1.0-SNAPSHOT'
+main: me.seif.dB_Hook_PL.DB_Hook_PL
+api-version: '1.20'
